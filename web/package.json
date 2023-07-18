@@ -45,7 +45,7 @@
     "imagemin-optipng": "^8.0.0",
     "imagemin-pngquant": "^9.0.2",
     "imports-loader": "^4.0.1",
-    "is-docker": "^2.1.1",
+    "is-docker": "^3.0.0",
     "istanbul-instrumenter-loader": "^3.0.1",
     "jasmine-core": "3.10.1",
     "jasmine-enzyme": "^7.1.2",
