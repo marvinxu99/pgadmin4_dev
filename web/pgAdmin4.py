@@ -92,7 +92,7 @@ class ReverseProxied():
 ##########################################################################
 config.SETTINGS_SCHEMA_VERSION = SCHEMA_VERSION
 
-# Check if the database exists. If it does not, create it.
+# Check if the configuration database exists. If it does not, create it.
 setup_db_required = False
 if not os.path.isfile(config.SQLITE_PATH):
     setup_db_required = True
