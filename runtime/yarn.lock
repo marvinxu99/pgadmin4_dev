@@ -961,10 +961,10 @@ number-is-nan@^1.0.0:
   resolved "https://registry.yarnpkg.com/number-is-nan/-/number-is-nan-1.0.1.tgz#097b602b53422a522c1afb8790318336941a011d"
   integrity sha512-4jbtZXNAsfZbAHiiqjLPBiCl16dES1zI4Hpzzxw61Tk+loF+sBDBKx1ICKKKwIqQ7M0mFn1TmkN7euSncWgHiQ==
 
-nw@^0.77.0:
-  version "0.77.0"
-  resolved "https://registry.yarnpkg.com/nw/-/nw-0.77.0.tgz#f6fa0f5e68d65e124ca66b9759b87f1fd8291b89"
-  integrity sha512-5M+3Nv3/x1VJbzr6fdR/uXaA2M6H3/UHpxTSidmUYFHF2FP4xTTxwLXbb0/WdX+oNXby8XeqiF1bGDqKi7ti1g==
+nw@^0.79.0:
+  version "0.79.0"
+  resolved "https://registry.yarnpkg.com/nw/-/nw-0.79.0.tgz#659634f240be1c6c58bb5da2e0a58eaea7d4b055"
+  integrity sha512-hGd4S0/BWCveg3QFl6h00PxGiMVTJOxzRm75L6AkSklKRgbv43aCKmOBE9di4EeMmP2XRoxmQXcFN7+S535KCw==
   dependencies:
     chalk "~1.1.3"
     decompress "^4.2.0"
